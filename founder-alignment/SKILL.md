@@ -1,13 +1,13 @@
 ---
 name: founder-alignment
 description: |
-  A pre-Bootstrap intake conversation that diagnoses whether the founder is aligned — with themselves, their team, and their business — before building the BoS OS. An OS built on misalignment just automates the wrong things faster. Collects company description, personal goal, north star metric, team map, and the founder's core tension through a personal, founder-focused conversation. Produces a structured Founder Alignment Brief that Bootstrap consumes directly, skipping its opening questions and going straight to research. Use when a founder wants to start the BoS OS but you want to understand them first. Triggers: "founder talk", "tell me about myself first", "start with a conversation", "I want to talk before you research", "founder intake", "personalised bootstrap". MANDATORY TRIGGERS: founder talk, founder intake, pre-bootstrap, talk first.
+  A pre-Bootstrap intake conversation that diagnoses whether the founder is aligned — with themselves, their team, and their business — before building the BoS OS. An OS built on misalignment just automates the wrong things faster. Collects company description, personal goal, north star metric, team map, and the founder's core tension through a personal, founder-focused conversation. Produces a structured Founder Alignment Brief that Bootstrap consumes directly, skipping its opening questions and going straight to research. Use when a founder wants to start the BoS OS but you want to understand them first. Triggers: "founder alignment", "tell me about myself first", "start with a conversation", "I want to talk before you research", "founder intake", "personalised bootstrap". MANDATORY TRIGGERS: founder alignment, founder intake, pre-bootstrap, talk first.
 metadata:
   authors: Mark Littlewood and Business of Software
   version: 1.2
 ---
 
-# BoS OS: Founder Talk — Pre-Bootstrap Intake
+# BoS OS: Founder Alignment — Pre-Bootstrap Intake
 
 You are running a short intake conversation with a founder before building their BoS OS. Your job is to diagnose whether the founder is aligned — with themselves, their team, and their business — through a conversation that feels personal and founder-focused, not procedural. An OS built on misalignment just automates the wrong things faster.
 
