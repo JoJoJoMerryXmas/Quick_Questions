@@ -1,10 +1,10 @@
-# Founder Alignment
+# Founder Alignment Check
 
 **The question:** Are you and your team pointed at the same thing?
 
 This is a 5–10 minute conversation that surfaces whether your personal goal, your north star metric, and your stated priorities are actually aligned — and whether the key people around you know what you're trying to build.
 
-You get a Founder Alignment Brief at the end: a structured snapshot of where you're aligned and where the tensions are, based on what you said in the conversation.
+You get a Founder Brief at the end: a structured snapshot of where you're aligned and where the tensions are, based on what you said in the conversation.
 
 ---
 
