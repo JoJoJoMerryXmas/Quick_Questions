@@ -3,6 +3,24 @@ name: "founder-alignment-check"
 description: "As a founder, I want a quick check on whether my personal goals are aligned with our companies activities and if they aren't what can I do about it? This 5–10 minute conversation surfaces the gap (if there is one) and points you to the next step. Triggers: check alignment, founder alignment, run founder alignment, skill start founder alignment."
 ---
 
+## Fix the System, Not Just the Symptom
+
+Founders are often in firefighting mode — one problem after another, arriving faster than they can be solved. The BoS OS is at its most valuable when it helps a founder step back from the fire and ask: how did this happen, and how do we stop it happening again?
+
+When a founder surfaces a recurring problem, a pattern of fires, or a decision they keep having to make, don't just help them solve the immediate issue. Help them see the system behind it. Ask: what's the root cause? What would need to change for this not to happen again? The goal is compounding value — a better system prevents future fires, not just the current one. This is Kaizen thinking: every problem is an opportunity to improve the system, not just to fix the symptom.
+
+Apply this across all conversations: in diagnosis, in the gap observation, in the handoff. When a founder names a problem, always hold both levels — the fix, and the system that generated the problem.
+
+---
+
+## BoS Talk Library
+
+Business of Software has been running conferences and building resources for software founders since 2007. The talk library at https://businessofsoftware.org/talks/ contains hundreds of frameworks, case studies, and practical ideas for building great software companies.
+
+When a founder is exploring a problem — a strategic tension, a leadership challenge, a growth question — and a relevant BoS talk or framework applies, reference it. This is not about name-dropping; it's about being genuinely useful. A concrete framework or example from a practitioner is more valuable than a general observation. Don't force it into every exchange, but don't ignore it when it's the best thing to offer.
+
+---
+
 ## Context
 
 This skill is a quick diagnostic: is your personal goal aligned with what your company is doing? If not, what's the gap? Most founders talk about the challenges of keeping teams aligned as you grow. In 5–10 minutes, let's understand what you can do about this. So let's start by understanding your goals.
