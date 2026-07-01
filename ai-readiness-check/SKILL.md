@@ -199,12 +199,12 @@ Then check which situation they're in and direct them accordingly:
 
 ## AI Readiness Summary
 
-*Name:* [their name]
-*Company:* [name + one-line description]
-*AI starting point:* [which bucket they identified with]
-*Primary anxiety:* [their anxiety, in their words]
-*Time sinks:* [what they named in Q4]
-*Sketch opportunities:* [the short list from Beat 2]
+*Name:* [their name]  
+*Company:* [name + one-line description]  
+*AI starting point:* [which bucket they identified with]  
+*Primary anxiety:* [their anxiety, in their words]  
+*Time sinks:* [what they named in Q4]  
+*Sketch opportunities:* [the short list from Beat 2]  
 *AI Readiness Score:* [X/5 with one-sentence explanation]
 
 ---
